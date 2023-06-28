@@ -56,3 +56,23 @@ Para interagir com serviços AWS pode-se fazer via :
  - Varios outros
 
 Existe **AWS CloudFormation** para criar ambientes inteiros de forma centralizada utilizando chamada de API da aws para gerenciar esses recursos.
+
+Questionário ->
+1) Qual declaração é VERDADEIRA para a infraestrutura global da AWS?
+      - Uma Região tem duas ou mais Zonas de Disponibilidade.
+2) Quais fatores devem ser considerados ao selecionar uma Região? (Selecione DUAS opções.)
+      - Conformidade com governança de dados e requisitos legais
+      - Proximidade com os clientes
+3) Qual declaração descreve melhor o Amazon CloudFront?
+      - Um serviço global de entrega de conteúdo
+4) Qual site o Amazon CloudFront usa para armazenar cópias de conteúdo em cache para entregá-los mais rapidamente aos usuários em qualquer local?
+     - Local de borda
+5) Qual ação você pode executar com o AWS Outposts?
+     - Qual ação você pode executar com o AWS Outposts?
+
+
+
+
+
+
+
